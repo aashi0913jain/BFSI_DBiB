@@ -1,0 +1,8 @@
+Must Configuration - one time
+
+user.name
+user.mail
+
+git init - > one time
+
+master-> default branch
